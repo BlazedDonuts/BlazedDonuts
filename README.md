@@ -2,7 +2,7 @@
 🔭 My name is Paromita and I’m interested in ML/AI and design. <br>🌱 I’m currently learning a rising senior at Fordham University studying Computer Science.<br>💬 Outside of coding I love playing videogames, singing, and finding new food spots with my friends! 
 
 ## 🚀 Projects: 
-[WIP]
+https://github.com/BlazedDonuts/AI_Studio_Project
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/paromitatalukder)
